@@ -21,6 +21,7 @@ button{
     color : white;
     font-weight: bold;
     font-size:16px;
+    border-radius:10px;
 }
 button:hover{
     background-color:#45722c;
@@ -40,4 +41,12 @@ li{
 }
 li a{
     color :#5f9341;
+}
+#del-btn{
+    background-color:white;
+    color:#5f9341;
+    border:#5f9341 1px solid;
+}
+#del-btn:hover{
+    background:rgb(255, 228, 228);
 }
